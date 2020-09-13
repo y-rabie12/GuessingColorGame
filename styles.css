@@ -1,0 +1,30 @@
+/******************************************************Global Selectors***********************************************/
+body
+{
+    background-color:#232323;
+}
+
+h1
+{
+    color:white;
+}
+
+/**********************************************************Squares**************************************************/
+.function
+{
+    background-color:white;
+    text-align:center;
+}
+.squares
+{
+    max-width:600px;
+    margin:0 auto;
+}
+.square
+{
+    width:30%;
+    background-color:blue;
+    padding-bottom:30%;
+    float:left;
+    margin:1.66%;
+}
